@@ -6,7 +6,7 @@
 * Templating
 * Communication between client and server
 * Static server
-* Server-side session-storage (soon)
+* Server-side session-storage
 * [Internationalization](http://en.wikipedia.org/wiki/Internationalization_and_localization) (soon)
 
 ## Getting started
