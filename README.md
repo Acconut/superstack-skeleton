@@ -19,3 +19,6 @@ cd myapp
 npm install
 npm start
 ```
+
+## Testing
+See [superstack's testing](https://github.com/Acconut/superstack#testing).
