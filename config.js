@@ -16,7 +16,12 @@ module.exports = {
     /**
      * The port to listen on
      */
-    port: 80,
+    port: process.env.PORT || 8080,
+    
+    /**
+     * The host
+     */
+    host: process.env.HOST || "127.0.0.1",
     
     template: {
         
